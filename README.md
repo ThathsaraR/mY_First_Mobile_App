@@ -1,4 +1,4 @@
-#Android Mobile App – Lab Test Project (EEI4369)
+## Android Mobile App – Lab Test Project (EEI4369)
 
 This project was developed as part of the **EEI4369 Mobile Application Development for Android** subject at the **Open University of Sri Lanka**. The app is built using **Java** in **Android Studio** and demonstrates core concepts of Android development, including UI navigation, Google Maps integration, sensor usage, and local database connectivity.
 
